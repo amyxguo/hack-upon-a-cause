@@ -1,0 +1,5 @@
+INDEX VERSION 1.122+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3954641083.index
+4150622003.index
+2659357695.index
+96839205.index

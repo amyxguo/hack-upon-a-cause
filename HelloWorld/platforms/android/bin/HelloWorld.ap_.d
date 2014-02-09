@@ -1,0 +1,24 @@
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\bin\HelloWorld.ap_ \
+ : C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\res\drawable\icon.png \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\res\drawable-hdpi\icon.png \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\res\drawable-ldpi\icon.png \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\res\drawable-mdpi\icon.png \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\res\drawable-xhdpi\icon.png \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\res\values\strings.xml \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\res\xml\config.xml \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\bin\res\drawable\icon.png \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\bin\res\drawable-hdpi\icon.png \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\bin\res\drawable-ldpi\icon.png \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\bin\res\drawable-mdpi\icon.png \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\bin\res\drawable-xhdpi\icon.png \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\assets\www \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\assets\www\cordova.js \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\assets\www\cordova_plugins.js \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\assets\www\css \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\assets\www\img \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\assets\www\index.html \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\assets\www\js \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\assets\www\css\index.css \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\assets\www\img\logo.png \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\assets\www\js\index.js \
+C:\Users\Amy\Documents\GitHub\hack-upon-a-cause\HelloWorld\platforms\android\bin\AndroidManifest.xml \
