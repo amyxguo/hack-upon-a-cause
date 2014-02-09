@@ -18,3 +18,24 @@
 	margin-bottom: 20px;
 	text-align: center;
 }
+
+.message_text{
+	width: 100%;
+	margin-top: 20px;
+}
+
+.message_button{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px; 
+	background: #000;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 40px;
+	color: #fff;
+	line-height: 15;
+}
+
+.circle_center{
+	text-align: center;
+}
